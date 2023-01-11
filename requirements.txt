@@ -5,3 +5,7 @@ matplotlib
 seaborn
 nltk
 textblob
+plotly
+cufflinks
+Flask
+requests
