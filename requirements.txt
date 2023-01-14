@@ -9,3 +9,4 @@ plotly
 cufflinks
 Flask
 requests
+nbformat>=4.2.0
